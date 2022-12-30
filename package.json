@@ -30,7 +30,7 @@
     "remote_path": "{version}"
   },
   "devDependencies": {
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "should": ">= 5.0.1"
   },
   "repository": {
